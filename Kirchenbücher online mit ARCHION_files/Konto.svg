@@ -1,0 +1,11 @@
+<svg id="Konto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.246" height="15" viewBox="0 0 14.246 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_9457" data-name="Rechteck 9457" width="14.246" height="15" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_19935" data-name="Gruppe 19935" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Pfad_185500" data-name="Pfad 185500" d="M13.6,19.72a.648.648,0,0,1-.648-.648V17.4c0-.07,0-.129,0-.188a2.711,2.711,0,0,0-2.865-2.518H4.165c-.093,0-.159,0-.225,0A2.75,2.75,0,0,0,2,15.548a2.534,2.534,0,0,0-.7,1.827v1.7a.648.648,0,0,1-1.3,0V17.4A3.813,3.813,0,0,1,1.057,14.66,4.036,4.036,0,0,1,3.9,13.395c.1,0,.193,0,.291,0h5.865a4,4,0,0,1,4.185,3.749c0,.086,0,.174,0,.262v1.666a.648.648,0,0,1-.648.648" transform="translate(0 -4.72)" fill="#fff"/>
+    <path id="Pfad_185501" data-name="Pfad 185501" d="M9.073,7.084a3.542,3.542,0,1,1,3.542-3.542A3.546,3.546,0,0,1,9.073,7.084m0-5.789A2.247,2.247,0,1,0,11.32,3.542,2.249,2.249,0,0,0,9.073,1.3" transform="translate(-1.95 0)" fill="#fff"/>
+  </g>
+</svg>
